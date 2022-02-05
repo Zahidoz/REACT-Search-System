@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "FrontEnd Basics",
+        "category": "For Begginners",
+        "descriptions": "HTML CSS JS lorem lorem lorem lorem lorem lorem lorem lorem",
+        "icon": "img/icon/x2.jpg",
+        "bookmark": false
+    },
+    {
+        "id": 2,
+        "name": "Create Different Templates",
+        "category": "For Junior",
+        "descriptions": "HTML CSS JS lorem lorem lorem lorem lorem lorem lorem lorem",
+        "icon": "img/icon/z1.jpg",
+        "bookmark": false
+    },
+    {
+        "id": 3,
+        "name": "Advanced JS DOM",
+        "category": "For Junior",
+        "descriptions": "JS Method(),  This is for Starting React lorem lorem lorem ",
+        "icon": "img/icon/z3.jpg",
+        "bookmark": false
+    },
+    {
+        "id": 4,
+        "name": "React For Beginners",
+        "category": "For Junior",
+        "descriptions": "React Basics lorem lorem lorem lorem lorem lorem lorem lorem",
+        "icon": "img/icon/z5.jpg",
+        "bookmark": false
+    },
+    {
+        "id": 5,
+        "name": "React Basics",
+        "category": "For React Juniors",
+        "descriptions": "React lorem lorem lorem lorem lorem lorem lorem lorem",
+        "icon": "img/icon/z6.jpg",
+        "bookmark": false
+    },
+    {
+        "id": 6,
+        "name": "React Hooks",
+        "category": "Step For Begginner to Junior",
+        "descriptions": "React useState Effect and & lorem lorem lorem lorem lorem lorem lorem lorem",
+        "icon": "img/icon/z7.jpg",
+        "bookmark": false
+    }
+]
